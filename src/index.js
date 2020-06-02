@@ -9,5 +9,3 @@ const user = {
 };
 
 console.log(user);
-
-console.log(process.env.SOME_ENV_VARIABLE);
